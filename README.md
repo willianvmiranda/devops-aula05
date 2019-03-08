@@ -2,6 +2,8 @@
 
 armagedom
 
-o pequenino
+o pequenino 2
 
 menina dos olhos
+
+os mercenarios
