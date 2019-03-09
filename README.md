@@ -1,11 +1,7 @@
 # devops-aula05
 
-armagedom
+menina dos olhos
 
-o pequenino 2
+os mercenarios
 
-menina dos olhos 1
-
- a freira
- 
- a vouta dos que não foram
+jogos mortais 5
